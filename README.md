@@ -6,8 +6,6 @@
 
  * dough 
 
- * cheese 
-
  * olive
 
  * Tomato sauce
